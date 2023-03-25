@@ -34,6 +34,8 @@
 <!--  TOP LANGUAGES STATISTICS -->
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=niketh23&theme=dark&layout=compact&align=right&width=40%" alt="niketh23" /></p>
 
+ <hr>
+
 <!-- GITHUB STATISTICS -->
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=niketh23&show_icons=true&locale=en" alt="niketh23" /></p>
 
