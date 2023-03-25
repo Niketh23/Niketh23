@@ -1,7 +1,9 @@
 <h1 align="center">Hi there, I'm Niketh👋</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 padding-bottom="30px" align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niketh23&label=Profile%20views&color=0e75b6&style=flat" alt="niketh23" /> </p>
+
+<img align="right" alt="coding" width="330" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47iye89skiop4vshzs9adhtk94vx24l1r1gfm0xomi&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently Studying Computer Science Engineering at CBIT, Hyderabad.
 
