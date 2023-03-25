@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/niketh-m-4793ba217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niketh m" height="30" width="40" /></a>
-<a href="https://instagram.com/nickey_2303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nickey_2303" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/niketh-m-4793ba217/" target="blank"><img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/> </a>
+<a href="https://instagram.com/nickey_2303" target="blank"><img height="53" src="https://cdn2.iconfinder.com/data/icons/social-media-black-white-2/600/Instagram_glyph_svg-64.png"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
